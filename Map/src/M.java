@@ -10,7 +10,7 @@ public class M
 	{
 		Map<Integer, String>m=new HashMap<>();
 		m.put(1, "abc");
-		m.put(2, "pqr");
+		m.put(7, "pqr");
 		m.put(3, "xy");
 		m.put(4, "aaa");
 		m.put(4, "xyz");
